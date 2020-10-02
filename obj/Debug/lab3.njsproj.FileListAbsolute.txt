@@ -1,0 +1,2 @@
+E:\School\JS Web Dev\Apps\lab3\obj\Debug\lab3.njsproj.CoreCompileInputs.cache
+E:\School\JS Web Dev\Apps\lab3\bin\Microsoft.NodejsTools.WebRole.dll
